@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazufoot21&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/kazufoot21/github-readme-stats)
 
-https://img.shields.io/badge/${subject}-${status}-${color}.svg
+<img src="https://img.shields.io/badge/-Adobe%20premiere-EA77FF.svg?logo=adobe-premiere&style=plastic">
 
 <!--
 **kazufoot21/kazufoot21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
