@@ -1,4 +1,4 @@
-### My Profile 🏋️‍♀️
+# My Profile 🏋️‍♀️
 
 [![KAZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazufoot21&theme=vue-dark&show_icons=true)](https://github.com/kazufoot21/github-readme-stats)
 
